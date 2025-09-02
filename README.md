@@ -38,5 +38,3 @@ via the Media Session API.
  8. Download feature 🔥: user can download songs with all the metadata,with 2 different 
 download options (mp3 and FLAC)🔥
 
-
-**THE Echo is not affiliated with JioSaavn. All trademarks and copyrights belong to their respective owners. All media, images, and songs are the property of their respective owners. This site is for educational purposes only.**
