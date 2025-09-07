@@ -5,6 +5,7 @@ import wasm from 'vite-plugin-wasm';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), wasm()],
+  base: "./",
   optimizeDeps: {
     exclude: ["@ffmpeg/ffmpeg", "@ffmpeg/util"],
   },
